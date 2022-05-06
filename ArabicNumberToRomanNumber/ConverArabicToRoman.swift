@@ -1,5 +1,5 @@
 //
-//  ConverArabicToRoman.swift
+//  Converter.swift
 //  ArabicNumberToRomanNumber
 //
 //  Created by Sviat on 05.05.2022.
